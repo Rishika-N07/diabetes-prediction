@@ -93,6 +93,17 @@ Model Saving
 Streamlit Web Application
    ↓
 Prediction
+## ✨ Key Features
+
+- 🩺 Diabetes prediction using Machine Learning
+- 📊 Patient health information input
+- 🤖 Logistic Regression classification model
+- 📈 Prediction probability display
+- 🧹 Data cleaning and preprocessing
+- ⚙️ Feature scaling using StandardScaler
+- 🔍 Hyperparameter tuning using GridSearchCV
+- 🌐 Interactive Streamlit web application
+- 🚀 Deployed online using Streamlit
 ## 📸 Application Screenshot
 
 ![Diabetes Prediction System](screenshot.png)
