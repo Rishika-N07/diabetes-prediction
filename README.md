@@ -93,3 +93,6 @@ Model Saving
 Streamlit Web Application
    ↓
 Prediction
+## 📸 Application Screenshot
+
+![Diabetes Prediction System](screenshot.png)
