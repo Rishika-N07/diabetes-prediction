@@ -1,4 +1,7 @@
 # 🩺 Diabetes Prediction System using Machine Learning
+## 🌐 Live Demo
+
+[Click here to try the Diabetes Prediction System](YOUR_STREAMLIT_APP_LINK)
 
 ## 📌 Project Overview
 
